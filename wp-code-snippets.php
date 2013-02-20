@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Code Snippets
-Plugin URI: http://www.itsananderson.com/plugins/code-snippets
+Plugin Name: WP Code Snippets
+Plugin URI: http://www.itsananderson.com/plugins/wp-code-snippets/
 Description: Define and insert HTML code snippets into your posts.
 Author: Will Anderson
 Version: 1.1
